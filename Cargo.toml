@@ -1,0 +1,13 @@
+[package]
+name = "verifypass"
+version = "0.1.0"
+edition = "2021"
+description = "🐀 | Basic library for checking passwords!"
+repository = "https://github.com/RickFerrDev/verifypass"
+authors = ["rickferr.dev@gmail.com"]
+homepage = "https://github.com/RickFerrDev/verifypass"
+licence = "MIT"
+license-file = "README.md"
+
+[dependencies]
+regex = "1.11.1"
